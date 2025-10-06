@@ -1,0 +1,41 @@
+# Unity generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/Assets/AssetStoreTools/
+/Assets/StreamingAssets/
+/Assets/AddressableAssetsData/
+/Assets/AssetBundles/
+/Assets/UnityPackageManager/
+/Assets/Editor/Data/
+
+# Visual Studio / Rider files
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.suo
+*.opendb
+*.VC.db
+
+# Mac OS X files
+.DS_Store
+.Trashes
+._*
+
+# Linux files
+Thumbs.db
+
+# Other files
+*.log
+*.fbs
+*.orig
+*.bak
+*.meta.orig
+*.meta.bak

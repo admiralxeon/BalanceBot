@@ -1,0 +1,29 @@
+{
+    "BalanceBot": {
+        "checkpoints": [
+            {
+                "steps": 386955,
+                "file_path": "results\\BalanceBot2\\BalanceBot\\BalanceBot-386955.onnx",
+                "reward": 0.8754002914499881,
+                "creation_time": 1759764418.244676,
+                "auxillary_file_paths": [
+                    "results\\BalanceBot2\\BalanceBot\\BalanceBot-386955.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 386955,
+            "file_path": "results\\BalanceBot2\\BalanceBot.onnx",
+            "reward": 0.8754002914499881,
+            "creation_time": 1759764418.244676,
+            "auxillary_file_paths": [
+                "results\\BalanceBot2\\BalanceBot\\BalanceBot-386955.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.2.0.dev0",
+        "torch_version": "2.2.2+cu121"
+    }
+}
